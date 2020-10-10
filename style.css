@@ -1,0 +1,23 @@
+.btn__click {
+  background-color: #1dc40a;
+  border: 2px solid #149606;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  padding: 10px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.btn__reiniciar {
+  background-color: #e70909;
+  border: 2px solid #990808;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  padding: 10px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
